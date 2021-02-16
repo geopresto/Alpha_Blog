@@ -1,0 +1,43 @@
+@import 'bootstrap/dist/css/bootstrap';
+
+ 
+
+.navbar {
+    background-color: #020202 !important;
+    }
+
+.navbar-brand {
+    font-size: 3rem;
+    }
+
+h1 {
+    color: rgb(0, 255, 98);
+    }
+
+h2 {
+    color:rgb(0, 110, 255)
+}
+
+.nav-link {
+    color: white !important;
+}
+
+#logo {
+    float: left;
+    font-size: medium;
+    color: white;
+    font-weight: bold;
+    letter-spacing: -1px;
+}
+
+#home-container {
+    margin-top: 25px;
+}
+
+.jumbotron {
+    background-image: asset-url('brad-neathery-XrSzacdYbtQ-unsplash.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
